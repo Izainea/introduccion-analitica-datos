@@ -25,11 +25,8 @@ Este repositorio es un material de soporte para el curso básico de analítica d
 - `01-introduccion`: Introducción a la analítica de datos, definición y aplicaciones.
 - `02-estadisticas-basicas-exploracion-datos`: Estadísticas básicas y exploración de datos, incluyendo medidas de tendencia central, dispersión, distribuciones de probabilidad y visualización de datos.
 - `03-limpieza-preprocesamiento-datos`: Limpieza y preprocesamiento de datos, incluyendo identificación y manejo de datos faltantes, detección y corrección de errores e inconsistencias, y transformación de datos.
-- `04-introduccion-aprendizaje-automatico`: Introducción al aprendizaje automático, incluyendo conceptos básicos, tipos de aprendizaje automático, modelos de regresión y clasificación, validación cruzada y métricas de evaluación.
-- `05-introduccion-bases-datos-sql`: Introducción a las bases de datos y SQL, incluyendo conceptos básicos de bases de datos relacionales y no relacionales, consultas SQL e integración de SQL con herramientas de análisis de datos.
-- `06-casos-practicos-aplicaciones`: Análisis de datos en diferentes dominios y proyectos de análisis de datos utilizando conjuntos de datos del mundo real.
-- `07-conclusiones-proximos-pasos`: Conclusiones y próximos pasos, incluyendo un resumen de los temas cubiertos y recursos adicionales para seguir aprendiendo.
-
+- `04-introduccion-bases-datos-sql`: Introducción a las bases de datos y SQL, incluyendo conceptos básicos de bases de datos relacionales y no relacionales, consultas SQL e integración de SQL con herramientas de análisis de datos.
+- `05-casos-practicos-aplicaciones`: Análisis de datos en diferentes dominios y proyectos de análisis de datos utilizando conjuntos de datos del mundo real.
 ## Paquetes de Python utilizados
 
 Este curso utiliza los siguientes paquetes de Python para la analítica de datos:
